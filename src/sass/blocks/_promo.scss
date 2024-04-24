@@ -31,6 +31,8 @@
         &:hover {
             color: var(--main-color-dark);
             text-decoration: none;
+            text-stroke: 1px white;
+            -webkit-text-stroke: 1px white;
         }
     }
 }
